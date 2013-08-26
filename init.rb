@@ -3,7 +3,7 @@ Redmine::Plugin.register :redmine_sortable_table do
   name 'Sortable table plugin'
   author 'Alexander Golovko'
   description ''
-  version '0.99'
+  version '0.99-sprylab'
   #url 'http://www.redminecrm.com'
   author_url 'mailto:alexandro@ankalagon.ru' if respond_to? :author_url
 end
